@@ -1,11 +1,11 @@
 {
-  "name": "eslint-config-mycujoo-base",
+  "name": "@mycujoo/eslint-config-mycujoo-base",
   "version": "1.0.0",
   "description": "ESLint base configuration file for @mycujoo",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/mycujoo/eslint-config-mycujoo-base.git"
+    "url": "git+https://github.com/mycujoo/eslint-config-mycujoo-base.git"
   },
   "keywords": [
     "eslint",
