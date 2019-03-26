@@ -1,0 +1,25 @@
+{
+  "name": "eslint-config-mycujoo-base",
+  "version": "1.0.0",
+  "description": "ESLint base configuration file for @mycujoo",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mycujoo/eslint-config-mycujoo-base.git"
+  },
+  "keywords": [
+    "eslint",
+    "config",
+    "airbnb",
+    "mycujoo"
+  ],
+  "author": "mycujoo.tv <@mycujoo>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mycujoo/eslint-config-mycujoo-base/issues"
+  },
+  "homepage": "https://github.com/mycujoo/eslint-config-mycujoo-base",
+  "dependencies": {
+    "eslint-config-airbnb-base": "13.1.0"
+  }
+}
