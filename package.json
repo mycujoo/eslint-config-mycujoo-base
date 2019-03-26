@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "ESLint base configuration file for @mycujoo",
   "main": "index.js",
+  "private": false,
   "repository": {
     "type": "git",
     "url": "git+https://github.com/mycujoo/eslint-config-mycujoo-base.git"
