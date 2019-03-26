@@ -11,13 +11,13 @@ It is based on [Airbnb's config](https://www.npmjs.com/package/eslint-config-air
 ### NPM
 
 ```
-npm install --save-dev eslint@latest eslint-plugin-import@latest eslint-config-mycujoo-base
+npm install --save-dev eslint@latest eslint-plugin-import@latest @mycujoo/eslint-config-mycujoo-base
 ```
 
 ### Yarn
 
 ```
-yarn add --exact --dev eslint@latest eslint-plugin-import@latest eslint-config-mycujoo-base
+yarn add --exact --dev eslint@latest eslint-plugin-import@latest @mycujoo/eslint-config-mycujoo-base
 ```
 
 ### Your `.eslintrc`
@@ -26,7 +26,7 @@ To add the rules to your `.eslintrc`, extend the file with the package in the fo
 
 ```
 {
-  "extends": ["mycujoo-base"]
+  "extends": ["@mycujoo/mycujoo-base"]
 }
 ```
 
@@ -34,7 +34,7 @@ Example:
 ```
 {
   "extends": [
-    "mycujoo-base"
+    "@mycujoo/mycujoo-base"
   ],
   "env": {
     "node": true,
