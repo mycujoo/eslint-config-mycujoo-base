@@ -9,6 +9,7 @@ module.exports = {
       exports: 'always-multiline',
       functions: 'never',
     }],
+    'space-before-function-paren': ['error', 'always'],
     'function-paren-newline': ['error', 'multiline'],
     'max-len': ['error', 80, 2, {
       ignoreUrls: true,
