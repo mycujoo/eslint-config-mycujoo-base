@@ -1,6 +1,6 @@
 {
   "name": "@mycujoo/eslint-config-mycujoo-base",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "ESLint base configuration file for @mycujoo",
   "main": "index.js",
   "private": false,
